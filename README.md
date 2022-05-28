@@ -1,4 +1,4 @@
-# Software do honeypy
+# Software honeypy
 
 Software usado no sistema honeypy.
 
